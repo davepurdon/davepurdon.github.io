@@ -1,0 +1,15 @@
+---
+layout: default
+title:  "Assumptions. Always Start With Assumptions"
+date:   2010-07-14 08:00:00 -0600
+categories: team-building
+---
+Before I follow through with the outrageous boast I made at the end of my last post, I’m going to make some stipulations.  Stipulations, I said.  Not weaseling.  Not waffling.  Merely stipulating.  The thing is, they’re big.  Huge, even.  Like if you can’t get these things in place, you are ultimately doomed to a horrible flaming demise while your coworkers laugh and point.
+
+Seriously, though, it will be impossible to get as much mileage out of the rest of what I say without these things in place.  The thing is, technology workers and even technology leadership can’t make these things happen.  Or can’t make them happen by themselves.  The leadership of the business (CEO/Owner/President/Whatever you call the person at the top along with all the people he or she listens to) must step up and provide this stuff.  (How to convince them to do so will be another post entirely.)  Here they are:
+
+1. A reasonable budget to get the job done.  Have you ever worked on a project that was underfunded?  Or that didn’t have a set budget so that getting every dollar was like going to war?  How did those projects turn out?  I don’t think that IT should necessarily be the ones to set the budget (on their own anyway), but any project must be well enough thought out to allocate it a budget.
+2. Clear priorities and objectives.  Every technology worker has run afoul of this at one time or another.  Work for a couple of months on a project and then all of a sudden someone says we’re not doing that anymore, we’re doing this thing over here now.  Not only will this kind of thing sap your team’s will to live, it will guarantee you’ll never get a happy return on the dollars you’re investing in them.  As with the budget, the business needs to think things through, make a decision about what’s important to it and then stick with it.  
+3. An executive sponsor who accepts full responsibility for success or failure.  The old saying goes something like “when everyone is responsible for a thing, then no one is”.  Without a sponsor or champion that takes absolute responsibility for a project, that project will never enjoy a happy life and will rarely come to a good ending.  The sponsor has to be a person who has a seat and a voice at the big table.  You can’t just grab a lower level project manager and say, “You’re on the hook for this.  You better get it right.”  That won’t work because he has no ability to advocate for or smooth the path in any way.  It has to be someone who can effect real positive change to conditions that will affect the project.  Sometimes it can be the CIO/CTO, but sometimes even they don’t have the wherewithal to get the job done. 
+
+I’d love to hear your stories confirming or denying my opinions here.  I’ve seen a lot of projects and a lot of teams over the course of my career and these seems to be recurring themes when things go awry. 
