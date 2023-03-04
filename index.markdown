@@ -29,7 +29,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          - <span class="post-meta">{{ post.date | date: date_format }}</span>
+          - <span class="small">{{ post.date | date: date_format }}</span>
         </h3> 
         
         {%- if site.show_excerpts -%}
